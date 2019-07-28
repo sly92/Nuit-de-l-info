@@ -1,0 +1,48 @@
+body {
+  background-color: #F4F4F4;
+}
+
+.blog-post {
+	text-align: justify;
+}
+
+.bas {
+	text-align: center;
+}
+
+.row, .medium-8, .large-7, .columns {
+  background-color: #FFF;
+/*  text-align: justify;*/
+  margin-top: 35px;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(184,184,184,1);
+-moz-box-shadow: 0px 0px 5px 0px rgba(184,184,184,1);
+box-shadow: 0px 0px 5px 0px rgba(184,184,184,1);
+  padding: 25px;
+}
+
+.top-bar{
+  background-color: #FFFF;
+}
+
+.myButton {
+	background-color:#1585cf;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #1585cf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1585cf;
+}
+.myButton:hover {
+	background-color:#1585cf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
